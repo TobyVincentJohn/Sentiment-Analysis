@@ -1,1 +1,4 @@
-
+FOR UNIVERSAL SENTENCE ENCODER download:
+#!/bin/bash
+curl -L -o ~/Downloads/model.tar.gz\
+  https://www.kaggle.com/api/v1/models/google/universal-sentence-encoder/tensorFlow2/universal-sentence-encoder/2/download
